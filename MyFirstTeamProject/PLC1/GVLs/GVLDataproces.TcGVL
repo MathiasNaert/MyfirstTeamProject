@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.11">
+  <GVL Name="GVLDataproces" Id="{999d4de7-4d73-43e9-b7a7-8d924654cb84}">
+    <Declaration><![CDATA[{attribute 'qualified_only'}
+VAR_GLOBAL
+	Test :BOOL;
+	Data :ARRAY[0..100] OF INT;
+	DAtatekst : string[255];
+END_VAR]]></Declaration>
+  </GVL>
+</TcPlcObject>

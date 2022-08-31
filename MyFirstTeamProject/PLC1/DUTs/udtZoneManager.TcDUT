@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.11">
+  <DUT Name="udtZoneManager" Id="{a80bc0b2-d79c-4c38-99b2-dacf7a9af432}">
+    <Declaration><![CDATA[TYPE udtZoneManager :
+STRUCT
+	Auto	:	BOOL;
+	Manual	:	BOOL;
+	Start	:	BOOL;
+	Stop	:	BOOL;
+END_STRUCT
+END_TYPE
+]]></Declaration>
+  </DUT>
+</TcPlcObject>

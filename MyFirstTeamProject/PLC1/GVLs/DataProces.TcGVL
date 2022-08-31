@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.11">
+  <GVL Name="DataProces" Id="{b484468f-9dac-45da-b1c8-8c14459b216c}">
+    <Declaration><![CDATA[{attribute 'qualified_only'}
+VAR_GLOBAL
+	bSimulate		:	BOOL;
+END_VAR
+]]></Declaration>
+  </GVL>
+</TcPlcObject>

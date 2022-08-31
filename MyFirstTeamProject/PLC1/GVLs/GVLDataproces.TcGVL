@@ -5,7 +5,8 @@
 VAR_GLOBAL
 	Test :BOOL;
 	Data :ARRAY[0..100] OF INT;
-	DAtatekst : string[255];
+	DAtatekst : STRING[255];
+	extraData : BOOL;
 END_VAR]]></Declaration>
   </GVL>
 </TcPlcObject>

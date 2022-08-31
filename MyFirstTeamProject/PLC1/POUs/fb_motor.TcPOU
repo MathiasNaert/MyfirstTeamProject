@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.11">
+  <POU Name="fb_motor" Id="{0ebc1963-e29c-4f87-83f3-c3853d7fd186}" SpecialFunc="None">
+    <Declaration><![CDATA[FUNCTION_BLOCK fb_motor
+VAR_INPUT
+	bStart, bStop : BOOL;
+	
+END_VAR
+VAR_OUTPUT
+	bStatus : BOOL;
+END_VAR
+VAR
+END_VAR
+]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[]]></ST>
+    </Implementation>
+  </POU>
+</TcPlcObject>

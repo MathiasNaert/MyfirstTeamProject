@@ -34,8 +34,23 @@
 		<Box File="Term 2 (EL1008).xti" Id="2">
 			<EtherCAT PortABoxInfo="#x0100000b"/>
 		</Box>
-		<Box File="Term 3 (EL9011).xti" Id="3">
+		<Box File="Term 13 (EL2008).xti" Id="13">
 			<EtherCAT PortABoxInfo="#x01000002"/>
+		</Box>
+		<Box File="Term 14 (EL2008).xti" Id="14">
+			<EtherCAT PortABoxInfo="#x0100000d"/>
+		</Box>
+		<Box File="Term 15 (EL2008).xti" Id="15">
+			<EtherCAT PortABoxInfo="#x0100000e"/>
+		</Box>
+		<Box File="Term 16 (EL2008).xti" Id="16">
+			<EtherCAT PortABoxInfo="#x0100000f"/>
+		</Box>
+		<Box File="Term 12 (EL2008).xti" Id="12">
+			<EtherCAT PortABoxInfo="#x01000010"/>
+		</Box>
+		<Box File="Term 3 (EL9011).xti" Id="3">
+			<EtherCAT PortABoxInfo="#x0100000c"/>
 		</Box>
 	</Box>
 </TcSmItem>

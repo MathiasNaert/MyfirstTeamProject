@@ -17,7 +17,7 @@
     <LibraryReferences>{0bd91a69-8028-46cf-ad16-25140363e232}</LibraryReferences>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="GVLs\DataProces.TcGVL">
+    <Compile Include="GVLs\DataProces2.TcGVL">
       <SubType>Code</SubType>
       <LinkAlways>true</LinkAlways>
     </Compile>
